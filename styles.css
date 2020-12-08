@@ -81,6 +81,12 @@ body    {
     letter-spacing: 1.5px;
 }
 
+.brand-img  {
+    width:50%;
+}
+
+
+
 /* Header text */
 
 .headerText     {
